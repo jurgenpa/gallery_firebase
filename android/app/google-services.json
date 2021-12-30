@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "142804190354",
+    "project_id": "photogalleryapp-a5f85",
+    "storage_bucket": "photogalleryapp-a5f85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142804190354:android:b63dc70fccaec16500124b",
+        "android_client_info": {
+          "package_name": "com.easyapproach.gallery_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142804190354-f2porpnci25ohbulp82kd5u56fr1s23e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAysj4Nfn3dbVkKvdDws_UbnOwQ8LWGpCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142804190354-f2porpnci25ohbulp82kd5u56fr1s23e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
